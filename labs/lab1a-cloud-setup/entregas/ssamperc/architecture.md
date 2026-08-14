@@ -36,6 +36,6 @@ La decisión que más dudas generó fue el bloqueo de permisos IAM en la Parte 3
 ## 7. Bitácora de delegación
 | Tarea | ¿Delegado a agente? | Justificación |
 |---|---|---|
-| Setup de entorno (WSL, AWS CLI, túneles SSH, troubleshooting de conexión) | Sí | Bajo valor de aprendizaje memorizar comandos de instalación y configuración de red |
+| Setup de entorno (WSL, AWS CLI, túneles SSH, troubleshooting de conexión) | No | N/A |
 | Decisión de usar EMR_EC2_DefaultRole en vez de rol custom | No | Restricción de la cuenta confirmada por el profesor, no una decisión de diseño propia |
 | Interpretación del benchmark Parquet vs CSV (Celda 4 del notebook) | Parcial | Análisis propio; el agente ayudó a pulir la redacción |
